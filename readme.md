@@ -24,11 +24,9 @@ This branch is used for test.
 + git tag v0.1_cfl_setting
 ## Commit formate
 
-`<header> build fix test
-<BLANK LINE>
-<body> summary 
-<BLANK LINE>
-<footer>`
+`header build fix test
+body summary 
+`
 
 
 
